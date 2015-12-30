@@ -1,0 +1,10 @@
+Node number = 4     Degree Centrality Value = 0.00701861458651
+Node number = 5     Degree Centrality Value = 0.00658200511725
+Node number = 2     Degree Centrality Value = 0.00631440576512
+Node number = 15     Degree Centrality Value = 0.00530034506232
+Node number = 7     Degree Centrality Value = 0.00459144151546
+Node number = 1     Degree Centrality Value = 0.004290979085
+Node number = 19     Degree Centrality Value = 0.004290979085
+Node number = 17     Degree Centrality Value = 0.00402337973287
+Node number = 6     Degree Centrality Value = 0.0035304335579
+Node number = 12     Degree Centrality Value = 0.00318771859815

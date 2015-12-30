@@ -1,0 +1,10 @@
+Node number = 188075     PageRank Value = 1.22398604663e-05
+Node number = 150667     PageRank Value = 1.21564114255e-05
+Node number = 124697     PageRank Value = 1.16354519603e-05
+Node number = 147371     PageRank Value = 1.15781329879e-05
+Node number = 29277     PageRank Value = 1.15571416372e-05
+Node number = 79433     PageRank Value = 1.14791292967e-05
+Node number = 14162     PageRank Value = 1.13782607589e-05
+Node number = 165559     PageRank Value = 1.13674340175e-05
+Node number = 184777     PageRank Value = 1.13170312563e-05
+Node number = 3834     PageRank Value = 1.13101137348e-05

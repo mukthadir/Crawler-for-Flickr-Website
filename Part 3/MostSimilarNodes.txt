@@ -1,0 +1,1 @@
+Node1 = 133875     Node2 = 133944     JaccardSimilarityValue = 1.0

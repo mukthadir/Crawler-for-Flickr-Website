@@ -1,0 +1,1 @@
+Average Global Clustering coefficient of the obtained graph is 0.000513887698165

@@ -1,0 +1,10 @@
+Node number = 38004     Degree Centrality Value = 3.75578038074e-05
+Node number = 133663     Degree Centrality Value = 3.75578038074e-05
+Node number = 10490     Degree Centrality Value = 3.28630783315e-05
+Node number = 41627     Degree Centrality Value = 3.28630783315e-05
+Node number = 47653     Degree Centrality Value = 3.28630783315e-05
+Node number = 58382     Degree Centrality Value = 3.28630783315e-05
+Node number = 71987     Degree Centrality Value = 3.28630783315e-05
+Node number = 86076     Degree Centrality Value = 3.28630783315e-05
+Node number = 102535     Degree Centrality Value = 3.28630783315e-05
+Node number = 127689     Degree Centrality Value = 3.28630783315e-05

@@ -1,0 +1,10 @@
+Node number = 13731     EigenVector Value = 0.0
+Node number = 89467     EigenVector Value = 0.0
+Node number = 186688     EigenVector Value = 0.0
+Node number = 173099     EigenVector Value = 0.0
+Node number = 40135     EigenVector Value = 0.0
+Node number = 107683     EigenVector Value = 0.0
+Node number = 48495     EigenVector Value = 0.0
+Node number = 95827     EigenVector Value = 0.0
+Node number = 89370     EigenVector Value = 0.0
+Node number = 89371     EigenVector Value = 0.0

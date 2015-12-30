@@ -1,0 +1,10 @@
+Node number = 598,     Degree Centrality Value = 0.00467285352473
+Node number = 476,     Degree Centrality Value = 0.00467285352473
+Node number = 777,     Degree Centrality Value = 0.00467285352473
+Node number = 404,     Degree Centrality Value = 0.00467285352473
+Node number = 246,     Degree Centrality Value = 0.00467285352473
+Node number = 135,     Degree Centrality Value = 0.00467285352473
+Node number = 878,     Degree Centrality Value = 0.00467285352473
+Node number = 263,     Degree Centrality Value = 0.00467285352473
+Node number = 469,     Degree Centrality Value = 0.00467285352473
+Node number = 490,     Degree Centrality Value = 0.00467285352473

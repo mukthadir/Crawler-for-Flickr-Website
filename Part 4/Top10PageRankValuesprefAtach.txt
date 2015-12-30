@@ -1,0 +1,10 @@
+Node number = 4     PageRank Value = 0.000673919513143
+Node number = 5     PageRank Value = 0.000632891622852
+Node number = 2     PageRank Value = 0.000609993489589
+Node number = 15     PageRank Value = 0.000511020039005
+Node number = 7     PageRank Value = 0.000446450765989
+Node number = 1     PageRank Value = 0.000414435762626
+Node number = 19     PageRank Value = 0.00041329983043
+Node number = 17     PageRank Value = 0.000384127996912
+Node number = 6     PageRank Value = 0.000341989933078
+Node number = 12     PageRank Value = 0.000306739718639

@@ -1,0 +1,1 @@
+Average Local Clustering coefficient of the obtained graph is 0.000513623753237

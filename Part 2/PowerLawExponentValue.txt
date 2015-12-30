@@ -1,0 +1,1 @@
+The power-law exponent for the obtained graph is 2.16325812634
